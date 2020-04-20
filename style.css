@@ -110,7 +110,9 @@ nav a:hover{
     font-size: 28px;
     
 }
-
+#destaque:hover {
+    color: rgb(170, 15, 15);
+}
 
 /* noticias 2*/
 
@@ -158,8 +160,6 @@ footer p{
     margin: 0 auto;
     max-width: 950px;
     padding: 10px;
-    
-    
 }
 
 .grid5-item {
@@ -181,6 +181,5 @@ footer p{
 .textoNoticia{
     font-family: Verdana, sans-serif;
     max-width: 670px;
-    
     padding-top: 20px;
 }
